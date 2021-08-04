@@ -9,7 +9,7 @@ var jwDefaults = {
   "displaytitle": true,
   "height": 260,
   "key": "BE9Zc1sxDCmrWhE+1Vde1TEKkDvpXIDpLB+aH0h01gUh0qCJPuP1hVY70JAZd1N5",
-  "mute": true,
+  "mute": false,
   "ph": 1,
   "pid": "IDzF9Zmk",
   "playbackRateControls": false,
